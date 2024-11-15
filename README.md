@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @litdgz
-- 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning react native, react, django
+- 👀 I’m interested in front and backend mostly with javascript
+- 🌱 I’m currently learning sql, java
 - 💞️ I’m looking to collaborate on interesting projects to help in daily life
 - 📫 How to reach me you can send me an email to litosandres@hotmail.com
 
